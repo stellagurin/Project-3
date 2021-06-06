@@ -1,0 +1,37 @@
+isempty
+isfull
+enqueue Zara 2
+enqueue David 1
+enqueue Adam 3
+enqueue Saleh 3
+isempty
+isfull
+length
+list
+dequeue
+list
+peek
+peekPriority
+enqueue David 5
+enqueue Andrew 3
+list
+dequeue
+list
+length
+clear
+isempty
+enqueue Roxanne 5
+enqueue Leo 9
+enqueue Nix 4
+list
+dequeue
+dequeue
+list
+dequeue
+list
+dequeue
+enqueue Zig 4
+enqueue Grey 5
+length
+list
+quit
