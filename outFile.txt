@@ -1,0 +1,35 @@
+Queue is Empty
+Queue is not full.
+Zara 2 is enqueued.
+David 1 is enqueued.
+Adam 3 is enqueued.
+Saleh 3 is enqueued.
+Queue is Not Empty
+Queue is not full.
+Number of items in the Queue is: 4
+David 1 --> Zara 2 --> Saleh 3 --> Adam 3 --> NULL
+David is dequeued. 
+Zara 2 --> Saleh 3 --> Adam 3 --> NULL
+Item at the front of the queue is Zara
+Priority at the front of the queue is 2
+David 5 is enqueued.
+Andrew 3 is enqueued.
+Zara 2 --> Andrew 3 --> Saleh 3 --> Adam 3 --> David 5 --> NULL
+Zara is dequeued. 
+Andrew 3 --> Saleh 3 --> Adam 3 --> David 5 --> NULL
+Number of items in the Queue is: 4
+Queue is Empty
+Roxanne 5 is enqueued.
+Leo 9 is enqueued.
+Nix 4 is enqueued.
+Nix 4 --> Roxanne 5 --> Leo 9 --> NULL
+Nix is dequeued. 
+Roxanne is dequeued. 
+Leo 9 --> NULL
+Leo is dequeued. 
+NULL
+Queue Underflow, exception thrown!
+Zig 4 is enqueued.
+Grey 5 is enqueued.
+Number of items in the Queue is: 2
+Zig 4 --> Grey 5 --> NULL
