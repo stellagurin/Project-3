@@ -11,7 +11,7 @@ void help()
 {
 	std::cout << "enqueue value: Enqueue a value at the end of the Queue\n" <<
         "dequeue: Remove the most urgent item \npeek: Peeks at the first item without " <<
-        "removing it\npeekPriority: Peeks the priority of the first item without removing it" <<
+        "removing it\npeekPriority: Peeks the priority of the 1st item without removing it" <<
         "\nclear: Clears the queue.\nisempty: Reports whether the queue is empty\n" <<
         "isfull: Reports whether the queue is full\nlist: Reports the items in the queue, " <<
         "in the order they will be processed\nhelp: Prints this message\n";
